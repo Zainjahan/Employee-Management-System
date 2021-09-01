@@ -1,6 +1,0 @@
-Install the vue then integrate the d3js file
-Create variables for the chart
-Draw the axis of the chart
-Create an svg file
-Reading and mapping of the json data
-Set the style of the graph
