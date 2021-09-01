@@ -1,8 +1,0 @@
-Bachelor’s Degree in Computer Science or another related technical field.
-1 to 5 years of experience.
-Strong knowledge and experience in .NET framework, ASP.Net (C#), WCF, RESTful APIs, SOAP and Windows Services.
-Should have experience with Silverlight.
-Strong experience is required with MS SQL Server, especially handling large size databases.
-Applicants should be proficient with Code Repository tools (like SVN).
-Knowledge of JavaScript, jQuery, and other scripting languages would be plus.
-Good knowledge of frontend development using HTML5, CSS3 & Bootstrap.

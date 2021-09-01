@@ -1,8 +1,0 @@
-mkdir server
-npm init 
-npm i express pg cors
-touch index.js
-
-cd "C:\Program Files\PostgreSQL\13\bin"
-
-psql -U postgres
